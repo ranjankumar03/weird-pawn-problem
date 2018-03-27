@@ -3,7 +3,6 @@ package com;
 /**
  * PawnConstants
  * @author ranjankumar
- *
  */
 public class PawnConstants {
 

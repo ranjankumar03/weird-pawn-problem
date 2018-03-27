@@ -5,10 +5,11 @@ import java.io.InputStream;
 import java.util.Properties;
 
 public class ConfigurationLoader {
-	
+
 	public static void main(String[] args) {
 		configurationLoader();
 	}
+
 	public static Properties configurationLoader() {
 
 		Properties prop = new Properties();
