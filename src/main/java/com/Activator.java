@@ -7,10 +7,6 @@ package com;
  */
 public class Activator {
 
-	/**
-	 * Main method
-	 * @param args
-	 */
 	public static void main(String[] args) {
 
 		String chequerBoardSize = ConfigurationLoader.configurationLoader().getProperty("chequerBoardSize", "10");
